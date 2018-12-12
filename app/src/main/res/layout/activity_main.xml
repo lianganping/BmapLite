@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:fitsSystemWindows="false"
-        tools:context="me.gfuil.bmap.activity.MainActivity">
+        tools:context="com.yeegot.map.activity.MainActivity">
 
         <FrameLayout
             android:id="@+id/lay_content"

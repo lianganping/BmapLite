@@ -20,7 +20,7 @@ import com.amap.api.services.busline.BusLineItem;
 import com.amap.api.services.busline.BusStationItem;
 import com.amap.api.services.core.LatLonPoint;
 
-import me.gfuil.bmap.lite.R;
+import com.yeegot.map.R;
 
 /**
  * 公交线路图层类。在高德地图API里，如果要显示公交线路，可以用此类来创建公交线路图层。如不满足需求，也可以自己创建自定义的公交线路图层。

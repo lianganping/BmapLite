@@ -19,7 +19,7 @@ import com.amap.api.services.route.DrivePath;
 import com.amap.api.services.route.DriveStep;
 import com.amap.api.services.route.TMC;
 
-import me.gfuil.bmap.lite.R;
+import com.yeegot.map.R;
 
 
 /**

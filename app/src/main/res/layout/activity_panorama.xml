@@ -6,7 +6,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:fitsSystemWindows="false"
     android:background="@android:color/black"
-    tools:context="me.gfuil.bmap.activity.PanoramaActivity">
+    tools:context="com.yeegot.map.activity.PanoramaActivity">
 
 
     <WebView

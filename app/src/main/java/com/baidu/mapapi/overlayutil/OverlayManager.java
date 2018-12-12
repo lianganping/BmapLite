@@ -16,8 +16,6 @@ import com.baidu.mapapi.model.LatLngBounds;
 import java.util.ArrayList;
 import java.util.List;
 
-import me.gfuil.bmap.lite.R;
-
 import static com.baidu.mapapi.map.BaiduMap.OnMarkerClickListener;
 
 /**

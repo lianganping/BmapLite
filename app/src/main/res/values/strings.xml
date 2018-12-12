@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BmapLite</string>
+    <string name="app_name">音图</string>
     <string name="app_info">简单的双地图应用</string>
     <string name="navigation_drawer_open">open</string>
     <string name="navigation_drawer_close">close</string>
@@ -11,7 +11,7 @@
     <string name="mail_developer">3021702005@qq.com</string>
     <string name="thanks">设计上的帮助 fairyex@coolapk</string>
     <string name="link_thanks">http://www.coolapk.com/u/466253</string>
-    <string name="link_download">http://www.coolapk.com/apk/me.gfuil.bmap.lite</string>
+    <string name="link_download">http://www.coolapk.com/apk/com.yeegot.map</string>
     <string name="link_github">https://github.com/gfuil/BmapLite</string>
 
 </resources>

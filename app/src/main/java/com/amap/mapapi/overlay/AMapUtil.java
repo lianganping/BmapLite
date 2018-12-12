@@ -20,7 +20,7 @@ import com.amap.api.services.route.BusStep;
 import com.amap.api.services.route.RouteBusLineItem;
 import com.amap.api.services.route.RouteRailwayItem;
 
-import me.gfuil.bmap.lite.R;
+import com.yeegot.map.R;
 
 
 public class AMapUtil {

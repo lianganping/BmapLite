@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="me.gfuil.bmap.lite">
+    package="com.yeegot.map">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
@@ -20,7 +20,7 @@
         android:smallScreens="true" />
 
     <application
-        android:name=".BApp"
+        android:name="com.yeegot.map.BApp"
         android:allowBackup="true"
         android:hardwareAccelerated="true"
         android:icon="@mipmap/ic_launcher"
@@ -30,7 +30,7 @@
         android:theme="@style/AppTheme.NoActionBar" >
 
         <activity
-            android:name=".activity.MainActivity"
+            android:name="com.yeegot.map.activity.MainActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask">
             <intent-filter>
@@ -73,40 +73,40 @@
 
         </activity>
         <activity
-            android:name=".activity.SearchActivity"
+            android:name="com.yeegot.map.activity.SearchActivity"
             android:label="搜索" />
         <activity
-            android:name=".activity.SelectPoiActivity"
+            android:name="com.yeegot.map.activity.SelectPoiActivity"
             android:label="地图选点" />
         <activity
-            android:name=".activity.OfflineMapActivity"
+            android:name="com.yeegot.map.activity.OfflineMapActivity"
             android:label="离线地图" />
         <activity
-            android:name=".activity.PanoramaActivity"
+            android:name="com.yeegot.map.activity.PanoramaActivity"
             android:label="街景" />
         <activity
-            android:name=".activity.AboutActivity"
+            android:name="com.yeegot.map.activity.AboutActivity"
             android:label="关于" />
         <activity
-            android:name=".activity.FavoriteActivity"
+            android:name="com.yeegot.map.activity.FavoriteActivity"
             android:label="收藏夹" />
         <activity
-            android:name=".activity.RouteActivity"
+            android:name="com.yeegot.map.activity.RouteActivity"
             android:label="线路规划" />
         <activity
-            android:name=".activity.RouteBaiduBusActivity"
+            android:name="com.yeegot.map.activity.RouteBaiduBusActivity"
             android:label="公交线路规划" />
         <activity
-            android:name=".activity.RouteAmapBusActivity"
+            android:name="com.yeegot.map.activity.RouteAmapBusActivity"
             android:label="公交线路规划" />
         <activity
-            android:name=".activity.SettingActivity"
+            android:name="com.yeegot.map.activity.SettingActivity"
             android:label="设置" />
         <activity
-            android:name=".activity.WebActivity"
+            android:name="com.yeegot.map.activity.WebActivity"
             android:label="" />
         <activity
-            android:name=".activity.ChangeCityActivity"
+            android:name="com.yeegot.map.activity.ChangeCityActivity"
             android:label="选择城市" />
 
 
@@ -123,7 +123,7 @@
 
         <meta-data
             android:name="com.baidu.lbsapi.API_KEY"
-            android:value="nswzdbrt0V1PHfrayltZXS5dT6Ir71eR" />
+            android:value="Go7eeajPzN3hY7O1AoqaKvB4ZXhfLySr" />
         <meta-data
             android:name="com.amap.api.v2.apikey"
             android:value="b91fdf13e592d9b02f03016fbb70cc8b" />

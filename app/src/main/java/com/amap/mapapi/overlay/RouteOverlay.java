@@ -18,7 +18,7 @@ import com.amap.api.maps.model.MarkerOptions;
 import com.amap.api.maps.model.Polyline;
 import com.amap.api.maps.model.PolylineOptions;
 
-import me.gfuil.bmap.lite.R;
+import com.yeegot.map.R;
 
 public class RouteOverlay {
 	protected List<Marker> stationMarkers = new ArrayList<Marker>();
